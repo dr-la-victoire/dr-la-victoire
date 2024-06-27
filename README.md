@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: I'll Take Technical Writing Seriously.
 - :open_book: In my free time, you'll find me buried in some good fiction.
 - :guitar: I also play the guitar.
-- :mailbox:How to reach me: 
+- :envelope: Want to reach me? [Send a mail](mailto:victory.c.amadi@gmail.com)
 
 <!-- Languages and Tools -->
 ### :hammer_and_wrench: Languages and Tools :
